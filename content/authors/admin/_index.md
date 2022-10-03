@@ -3,10 +3,7 @@ title: JK
 role: Dual Ph.D. Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
